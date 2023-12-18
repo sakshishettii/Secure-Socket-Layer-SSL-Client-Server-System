@@ -1,13 +1,11 @@
 ➛ CS558 - Assignment 3: Secure Socket Layer (SSL) Client-Server System
 
 ➛ Author Information
-
     ➛ Name: Sakshi Shetty
     ➛ Programming Language Used: Java
     ➛ Tested on remote.cs.binghamton.edu: Yes
 
 ➛ Description
-
 This project implements a secure client-server system utilizing SSL for encrypted communication. The system includes a server and a client enabling secure transmission of user credentials.
 
 ➛ Server Functionality
