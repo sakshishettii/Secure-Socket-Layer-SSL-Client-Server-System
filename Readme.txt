@@ -1,4 +1,3 @@
-➛ CS558 - Assignment 3: Secure Socket Layer (SSL) Client-Server System
 
 ➛ Author Information
     ➛ Name: Sakshi Shetty
